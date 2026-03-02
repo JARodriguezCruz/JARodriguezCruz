@@ -69,7 +69,16 @@ API REST con arquitectura en capas que implementa:
 - Persistencia con JPA  
 - Manejo de errores  
 - Perfiles dev (H2) y prod (MySQL)  
-- Buenas prácticas de diseño  
+- Buenas prácticas de diseño
+
+## 🔹 Aplicación Web Full-Stack (Spring + Frontend)  
+Desarrollo de aplicación web completa:  
+- Backend Spring Boot  
+- Frontend HTML, CSS y JavaScript  
+- Formularios e interacción de usuario  
+- Estilos responsivos con Bootstrap  
+- Integración con API REST  
+- Persistencia en base de datos    
 
 ## 🔹 Servicio Web SOAP con Spring  
 Implementación de servicio SOAP empresarial:  
