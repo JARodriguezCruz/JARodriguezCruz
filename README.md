@@ -6,7 +6,7 @@
 
 # ¡Hola! Soy Aaron Rodríguez Cruz <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIz/mJzHc66X8k3I91sM1M/giphy.gif" width="30px">
 
-### 🚀 Full Stack Java Developer 
+### 🚀 Full Stack Java Developer
 
 <!--About Me-->
 
