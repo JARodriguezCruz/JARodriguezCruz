@@ -104,6 +104,7 @@ https://github.com/JARodriguezCruz
 <p align="left">
 <a href="https://www.linkedin.com/in/aaron-rodr%C3%ADguez-cruz-java/" target="blank"><img align="center" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png" height="30" width="40" /></a>
 <a href="https://github.com/JARodriguezCruz"><img align="center" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png" alt="GitHub" height="35" width="35" /></a>
+<a href="https://codepen.io/JARodriguezCruz" target="blank"><img alin="rigth" src="https://blog.codepen.io/wp-content/uploads/2023/09/logo-white.png" alt="CodePen" height="35" width="35" /> </a>
 </p>
 
 ---
